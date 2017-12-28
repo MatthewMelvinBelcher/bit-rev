@@ -1,2 +1,2 @@
 # bit-rev
-new stock bitcoins markit pennystocks 
+The new cross platform market, stock exchange in a bitcoins form. 
